@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "513557382894",
+    "project_id": "km-creation-9afb6",
+    "storage_bucket": "km-creation-9afb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513557382894:android:0d1cd12df6e6b332e295ff",
+        "android_client_info": {
+          "package_name": "com.example.kmcreation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513557382894-num6otbfuvrdh0e8m4iqr3tajokv87no.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQHpo0FbAVXkAkn3-BOkLsVkNJaFSPfnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513557382894-num6otbfuvrdh0e8m4iqr3tajokv87no.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
